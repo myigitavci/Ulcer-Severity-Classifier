@@ -1,2 +1,4 @@
 # Ulcer-Severity-Classifier
-Semester project for BM586 Healthcare in AI Course from Bogazici Biomedical Institute. The main goal is to classify ulcer images according to their severity.
+Semester project for the BM586 AI in Healthcare course from Bogazici University Institute of Biomedical Engineering.
+
+The main goal is to classify the grades of the ulcerative colitis (UC) that is inflammatory bowel disease (IBD) that causes inflammation and ulcers (sores) in the colon.
